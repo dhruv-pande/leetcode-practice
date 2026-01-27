@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dhruv-pande/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-pande/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/dhruv-pande/leetcode-practice/tree/master/0904-fruit-into-baskets) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dhruv-pande/leetcode-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/dhruv-pande/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dhruv-pande/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruv-pande/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dhruv-pande/leetcode-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
